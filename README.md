@@ -1,0 +1,2 @@
+# sentinal-
+pirbala image classification
